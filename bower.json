@@ -1,0 +1,17 @@
+{
+  "name": "preload",
+  "main": "preload.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/calary/preload",
+  "authors": [
+    "calary <calacirya@126.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
